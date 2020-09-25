@@ -15,7 +15,7 @@ The objective of this project is proces this flights data obtained from Kaggle i
 
 To accomplish this task, the following tools were used:
 
--Python
+-Python;
 -SQL
 -Spark
 -BigQuery
