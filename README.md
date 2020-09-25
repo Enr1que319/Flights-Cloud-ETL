@@ -15,18 +15,18 @@ The objective of this project is proces this flights data obtained from Kaggle i
 
 To accomplish this task, the following tools were used:
 
--Python;
--SQL
--Spark
--BigQuery
--Google Workflow
--Apache Airflow
--Linux
+- Python
+- SQL
+- Spark
+- BigQuery
+- Google Workflow
+- Apache Airflow
+- Linux
 
 The procedure that was taken to process the information is as follows:
 
--Apply transformation to flight dealys data using Spark-SQL
--Save the transformed data into Big Query partitioned tables
--Use Google Workflow templates to automate the Spark ETL batch processing job
--Use Apache Airflow to create DAGs and automate the batch processing job
+- Apply transformation to flight dealys data using Spark-SQL
+- Save the transformed data into Big Query partitioned tables
+- Use Google Workflow templates to automate the Spark ETL batch processing job
+- Use Apache Airflow to create DAGs and automate the batch processing job
 
