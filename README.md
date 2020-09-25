@@ -1,3 +1,3 @@
 # Flights-Cloud-ETL
 
-![](https://giphy.com/gifs/26xBIGFMLSK3OqnKg/html5)
+![](http://i.imgur.com/OUkLi.gif)
