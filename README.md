@@ -20,8 +20,8 @@ Tools that were used to accomplish this task:
 - Apache Airflow
 - Linux
 
-![][image_ref_a32ff4ads]
-![][image_ref_a32ff4ads]
+![][Images/giphy-downsized-large.gif]
+![][Images/giphy-downsized-large.gif]
 
 Data
 ----
