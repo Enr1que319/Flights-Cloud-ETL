@@ -20,35 +20,35 @@ Tools that were used to accomplish this task:
 - Apache Airflow
 - Linux
 
-![][Images/giphy-downsized-large.gif]
-![][Images/giphy-downsized-large.gif]
+![][Images/spark.png]
+![][Images/google-cloud.jpg]
 
 Data
 ----
 The schema of the data is as follows:
 
-[ 
-  {
-    "mode": "REQUIRED",
-    "name": "avg_departure_delay",
-    "type": "FLOAT"
-  },
-  {
-    "mode": "REQUIRED",
-    "name": "avg_arrival_delay",
-    "type": "FLOAT"
-  },
-  {
-    "mode": "REQUIRED",
-    "name": "flight_num",
-    "type": "INTEGER"
-  },
-  {
-    "mode": "REQUIRED",
-    "name": "flight_date",
-    "type": "DATE"
-  }
-]
+    [ 
+      {
+        "mode": "REQUIRED",
+        "name": "avg_departure_delay",
+        "type": "FLOAT"
+      },
+      {
+        "mode": "REQUIRED",
+        "name": "avg_arrival_delay",
+        "type": "FLOAT"
+      },
+      {
+        "mode": "REQUIRED",
+        "name": "flight_num",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "REQUIRED",
+        "name": "flight_date",
+        "type": "DATE"
+      }
+    ]
 
 
 Process
