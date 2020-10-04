@@ -27,7 +27,6 @@ Data
 ----
 The schema of the data is as follows:
 
-```yaml
 [ 
   {
     "mode": "REQUIRED",
