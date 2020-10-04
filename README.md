@@ -20,8 +20,8 @@ Tools that were used to accomplish this task:
 - Apache Airflow
 - Linux
 
-![][Images/spark.png]
-![][Images/google-cloud.jpg]
+[![](Images/spark.png)]()        
+[![](Images/google-cloud.jpg)]()  
 
 Data
 ----
