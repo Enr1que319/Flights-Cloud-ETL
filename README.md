@@ -10,10 +10,7 @@ The task
 ----
 
 The objective of this project is proces this flights data obtained from Kaggle in the cloud to storage a daily basis
-
-(Schema of data)
-
-To accomplish this task, the following tools were used:
+Tools that were used to accomplish this task:
 
 - Python
 - SQL
@@ -22,6 +19,41 @@ To accomplish this task, the following tools were used:
 - Google Workflow
 - Apache Airflow
 - Linux
+
+![][image_ref_a32ff4ads]
+![][image_ref_a32ff4ads]
+
+Data
+----
+The schema of the data is as follows:
+
+```yaml
+[ 
+  {
+    "mode": "REQUIRED",
+    "name": "avg_departure_delay",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "avg_arrival_delay",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "flight_num",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "flight_date",
+    "type": "DATE"
+  }
+]
+
+
+Process
+----
 
 The procedure that was taken to process the information is as follows:
 
