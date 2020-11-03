@@ -21,7 +21,6 @@ Tools that were used to accomplish this task:
 - Linux
 
 [![](Images/spark.png)]()        
-[![](Images/google-cloud.jpg)]()  
 
 Data
 ----
