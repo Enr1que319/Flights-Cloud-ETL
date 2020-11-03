@@ -9,7 +9,8 @@ In 2018, 120,000 daily flights were registered on , according to the latest repo
 The task
 ----
 
-The objective of this project is proces this flights data obtained from Kaggle in the cloud to storage a daily basis
+The objective of this project is proces this flights data obtained from Kaggle in the cloud to storage a daily basis DataWarehouse
+
 Tools that were used to accomplish this task:
 
 - Python
