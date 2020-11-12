@@ -64,3 +64,11 @@ The procedure that was taken to process the information is as follows:
 The folder 'Manual Job' have all the scripts step by step in individual batch files that run all process manually.
 The folder 'Workflow' automates all the process using an unique batch file that runs all the commands excluding the creation of the tables in Big Query. To run it you should trigger the file manually.
 The folder 'Airflow' brings a python file that automates all the proccess, the advange of this script is that is triggers alone everyday at 2:30 pm.
+
+
+Architecture
+----
+
+Here is the GCP architecture, this shows the resources that are used
+
+[![](Images/arch.jpeg)]()     
